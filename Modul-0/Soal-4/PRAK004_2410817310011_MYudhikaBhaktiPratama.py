@@ -1,0 +1,6 @@
+print("#" * 38)
+print("#                                    #")
+print("#      M.Yudhika Bhakti Pratama      #")
+print("#            2410817310011           #")
+print("#                                    #")
+print("#" * 38)
